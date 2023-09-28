@@ -1,6 +1,8 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+
+Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -8,17 +10,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Updates](#updates)
 
 
 ## Overview
 
 ### Links
 
-- Solution URL: [My GitHub Profile](https://github.com/kevinx9000/qr-code-component)
+- Solution URL: [My GitHub Profile](https://github.com/kevinx9000/qr-code-component/)
 - Live Site URL: [GitHub Page](https://kevinx9000.github.io/qr-code-component/)
 
 ## My process
@@ -30,27 +31,29 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - Google Fonts
 
-### What I learned
-
-Trying something new is incredibly hard. Things looks so easy when you're watching a lesson or doing a code-along. The reasoning behind decisions, the knowledge of what to change and where, and keeping the variety of options straight seem so simple while watching. But doing is a very different thing. I did not expect this QR Code Challenge to last as long or be as difficult as it was for me.
-
-Starting out is hard! 
-
-### Continued development
-
-Continue watching more videos and lessons at this point.
-
 ### Useful resources
 
-This is the course I recently completed that at least got me this far.
+This is the course I recently completed that got me this far.
 
-https://www.udemy.com/course/html-and-css-bootcamp/
+- [HTML & CSS Bootcamp](https://www.udemy.com/course/html-and-css-bootcamp/)
 
 ## Author
 
-- Website - [Kevin Herrmann](https://www.kevin-herrmann.com)
+- Website - [Kevin Herrmann](https://www.kevinherrmann.quest)
 - Frontend Mentor - [@kevinx9000](https://www.frontendmentor.io/profile/kevinx9000)
-- Twitter - [@KevHerrmann](https://www.twitter.com/KevHerrmann)
 
+## Updates
+
+- Fixed heading tag in HTML.
+- Added alt text to QR code image.
+- Thanks to suggestions from [@0xAbdulKhalid](https://www.frontendmentor.io/profile/0xAbdulKhalid)
+
+### Revised again
+
+- 09-27-2023 -- - Revisited and refactored this after completing more challenges and lessons.
+
+## My Screenshots
+
+![](/my-screenshots/my-mobile-screenshot-375.png)
 
 
